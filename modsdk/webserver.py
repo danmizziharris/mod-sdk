@@ -7,7 +7,8 @@ import random
 import re
 import shutil
 import subprocess
-import pyinotify
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
 
 from base64 import b64encode
 from PIL import Image

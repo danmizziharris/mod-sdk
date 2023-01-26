@@ -18,7 +18,7 @@ else:
     ROOT = os.path.join(sys.prefix, 'share', 'mod-sdk')
 
 PORT = 9000
-HTML_DIR = os.path.join(ROOT, 'html')
+HTML_DIR = os.path.join('/opt/homebrew/share/mod-sdk/', 'html')
 WIZARD_DB = os.path.join(HTML_DIR, 'resources/wizard.json')
 TEMPLATE_DIR = os.path.join(HTML_DIR, 'resources/templates')
 DEFAULT_DEVICE = "http://localhost:8888"

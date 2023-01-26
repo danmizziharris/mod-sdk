@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: modsdk
+Version: 2.0.0
+Summary: MOD plugin SDK.
+Home-page: http://github.com/moddevices/mod-sdk
+Author: Filipe Coelho, Luis Fagundes
+Author-email: falktx@moddevices.com
+License: GPLv3
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE

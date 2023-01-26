@@ -1,0 +1,3 @@
+[console_scripts]
+modsdk = modsdk.webserver:run
+modsdk-screenshot = modsdk.screenshot:run
